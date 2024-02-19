@@ -1,0 +1,44 @@
+.navbar_container {
+    display: flex;
+    flex-direction: row;
+}
+.Button_contact {
+    margin-left: auto;
+    margin-right: 29px;
+}
+.logoWithMenu {
+    display: flex;
+    flex: row;
+}
+ul.Menu_heading {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    gap: 33px;
+    font-weight: bold;
+}
+button {
+    background-color: #5e5ed3;
+    height: 36px;
+    color: white;
+    width: 107px;
+    border-radius: 6px;
+}
+.container2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 55px;
+}
+.text_container {
+    margin-top: 127px;
+    width: 331px;
+}
+h1.heading2 {
+    width: 292px;
+    font-weight: bold;
+    font-size: xxx-large;
+}
+span {
+    color: #5e5ed3;
+}
